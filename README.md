@@ -35,6 +35,8 @@ This project provides a comprehensive analysis of bank loan data through structu
   - Employment length distribution
   - Loan purpose categories (debt consolidation, car, home improvement, etc.)
   - Homeownership status (rent, mortgage, own)
+  <img width="1405" height="740" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f3fa4341-9634-4b10-8b08-e42df490b7ad" />
+
 
 ## 📊 Insights
 - **Good Loans**: 86.18% of applications funded, with strong repayment performance.  
