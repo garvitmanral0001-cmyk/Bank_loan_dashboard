@@ -26,6 +26,7 @@ This project provides a comprehensive analysis of bank loan data through structu
   - Average interest rate and debt-to-income ratio
   - Good vs. bad loan distribution
   - Loan status breakdown (Fully Paid, Charged Off, Current)
+<img width="1417" height="757" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/6ea80b52-a129-46d4-a76d-bfc88582a491" />
 
 - **Overview Dashboard**  
   Offers detailed insights such as:
